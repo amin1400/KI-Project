@@ -25,7 +25,7 @@ function App() {
         <div className="flex items-center gap-3 mb-8">
           <BarChart2 className="w-8 h-8 text-violet-600" />
           <h1 className="text-2xl font-semibold text-gray-900">
-            Mitarbeiter KPI-Analyse
+            Mitarbeiter Bewertungs-Analyse
           </h1>
         </div>
 
